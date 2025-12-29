@@ -1,0 +1,8 @@
+{
+  "name": "Fameless ProShot AI",
+  "description": "Transform casual selfies into professional headshots using Gemini 2.5 Flash Image. Choose from preset styles or use custom text prompts for creative edits.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
